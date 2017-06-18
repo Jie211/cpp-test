@@ -1,0 +1,8 @@
+- test1
+  - g++ main.cpp
+- test2
+  - g++ main.cpp
+- test3
+  - g++ main.cpp func.cpp
+- test4
+  - g++ main.cpp func.cpp
